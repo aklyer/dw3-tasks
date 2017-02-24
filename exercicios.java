@@ -1,19 +1,19 @@
 // 2.14 1
-class MeuPrograma {
+public class MeuPrograma {
 	public static void main(String[] args) {
 		System.out.println("Different message");
 	}
 }
 
 // 2.14 2  
-class MeuPrograma {
+public class MeuPrograma {
 	public static void main(String[] args) {
 		System.out.println("One line");
 		System.out.println("Now two lines");
 	}
 }
 // 2.14
-class MeuPrograma {
+public class MeuPrograma {
 	public static void main(String[] args) {
 		System.out.println("One line \n Now two lines. M A G I C");
 	}
